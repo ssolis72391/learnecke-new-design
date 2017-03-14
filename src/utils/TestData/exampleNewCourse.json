@@ -1,0 +1,19 @@
+{
+    "id": "course-New-1",
+    "itemType": "Course",
+    "title": "Example New Course",
+    "description": "This is a New Course example to show functionality",
+    "editedDate": "10/01/2021",
+    "status": "Draft",
+    "level": "Novice",
+    "tags": [
+      "example",
+      "new course 1"
+    ],
+    "questions": [
+
+    ],
+    "subSections": [
+
+    ]
+}

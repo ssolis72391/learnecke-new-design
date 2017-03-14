@@ -1,0 +1,862 @@
+{
+  "id": "lesson-1",
+  "itemType": "Lesson",
+  "title": "919sowi21-113 ",
+  "description": "This is a lesson example to show functionality",
+  "editedDate": "10/01/2021",
+  "tags": ["example", "course 1", "lesson 1"],
+  "questions": [
+    {
+      "id": "question-1",
+      "type": "Question-Type",
+      "question": "What it the capital of Florida?",
+      "answer": "Tallahassee",
+      "choices": ["Madison", "Columbus", "Tallahassee", "Pierre"],
+      "tags": ["course 1", "evaluation 1", "question 1"],
+      "reference": "1.1.1",
+      "points": 4
+    },
+    {
+      "id": "question-2",
+      "type": "Question-Type",
+      "question": "What it the capital of Wisconsin?",
+      "answer": "Madison",
+      "choices": ["Madison", "Columbus", "Tallahassee", "Pierre"],
+      "tags": ["course 1", "evaluation 1", "question 1"],
+      "reference": "1.1.1",
+      "points": 4
+    },
+    {
+      "id": "question-3",
+      "type": "Question-Type",
+      "question": "What it the capital of South Dakota?",
+      "answer": "Pierre",
+      "choices": ["Madison", "Columbus", "Tallahassee", "Pierre"],
+      "tags": ["course 1", "evaluation 1", "question 1"],
+      "reference": "1.1.1",
+      "points": 4
+    },
+    {
+      "id": "question-4",
+      "type": "Question-Type",
+      "question": "What it the capital of Ohio?",
+      "answer": "Columbus",
+      "choices": ["Madison", "Columbus", "Tallahassee", "Pierre"],
+      "tags": ["course 1", "evaluation 1", "question 1"],
+      "reference": "1.1.1",
+      "points": 4
+    }
+  ],
+  "filename": "/content/drive/MyDrive/AFPDFs/919sowi21-113.pdf",
+  "uploadDate": "2021-11-10 14:48:16.943586",
+  "publishDate": "1 APRIL 2013",
+  "acronymList": [
+    {
+      "acronym": "ABW",
+      "expandedText": "Air Base Wing"
+    },
+    {
+      "acronym": "AF",
+      "expandedText": "Air Force"
+    },
+    {
+      "acronym": "AFI",
+      "expandedText": "Air Force Instruction"
+    },
+    {
+      "acronym": "AFMAN",
+      "expandedText": "Air Force Manual"
+    },
+    {
+      "acronym": "AFOSH",
+      "expandedText": "Air Force Occupational Safety and Health"
+    },
+    {
+      "acronym": "AFPD",
+      "expandedText": "Air Force Policy Directive"
+    },
+    {
+      "acronym": "AFRC",
+      "expandedText": "Air Force Reserve Command"
+    },
+    {
+      "acronym": "AFTO",
+      "expandedText": "Air Force Technical Order"
+    },
+    {
+      "acronym": "AGE",
+      "expandedText": "Aerospace Ground Equipment"
+    },
+    {
+      "acronym": "AMXS",
+      "expandedText": "Aircraft Maintenance Squadron"
+    },
+    {
+      "acronym": "BEE",
+      "expandedText": "Bioenvironmental Engineering"
+    },
+    {
+      "acronym": "CDDAR",
+      "expandedText": "Crashed Damaged or Disabled Aircraft Recovery"
+    },
+    {
+      "acronym": "CES",
+      "expandedText": "Civil Engineer Squadron"
+    },
+    {
+      "acronym": "CP",
+      "expandedText": "Command Post"
+    },
+    {
+      "acronym": "CTK",
+      "expandedText": "Composite Tool Kit"
+    },
+    {
+      "acronym": "EAFB",
+      "expandedText": "Eglin Air Force Base"
+    },
+    {
+      "acronym": "IAW",
+      "expandedText": "In Accordance With"
+    },
+    {
+      "acronym": "IMDS",
+      "expandedText": "Integrated Maintenance Data System"
+    },
+    {
+      "acronym": "IMT",
+      "expandedText": "Information Management Tool"
+    },
+    {
+      "acronym": "LRS",
+      "expandedText": "Logistics Readiness Squadron"
+    },
+    {
+      "acronym": "MAJCOM",
+      "expandedText": "Major Command"
+    },
+    {
+      "acronym": "MDS",
+      "expandedText": "Mission Design Series"
+    },
+    {
+      "acronym": "MGBF",
+      "expandedText": "Medical Group Bioenvironmental Flight"
+    },
+    {
+      "acronym": "MOF",
+      "expandedText": "Maintenance Operations Flight"
+    },
+    {
+      "acronym": "MXKFER",
+      "expandedText": "Repair and Reclamation Shop"
+    },
+    {
+      "acronym": "MXOC",
+      "expandedText": "Maintenance Operations Center"
+    },
+    {
+      "acronym": "MXG",
+      "expandedText": "Maintenance Group"
+    },
+    {
+      "acronym": "MXS",
+      "expandedText": "Maintenance Squadron"
+    },
+    {
+      "acronym": "OPR",
+      "expandedText": "Office of Primary Responsibility"
+    },
+    {
+      "acronym": "OS",
+      "expandedText": "On Scene"
+    },
+    {
+      "acronym": "OSC",
+      "expandedText": "On Scene Commander"
+    },
+    {
+      "acronym": "POL",
+      "expandedText": "Petroleum Oil and Lubricants"
+    },
+    {
+      "acronym": "PPE",
+      "expandedText": "Personal Protective Equipment"
+    },
+    {
+      "acronym": "QA",
+      "expandedText": "Quality Assurance"
+    },
+    {
+      "acronym": "RDS",
+      "expandedText": "Records Disposition Schedule"
+    },
+    {
+      "acronym": "SCR",
+      "expandedText": "Special Certification Roster"
+    },
+    {
+      "acronym": "SE",
+      "expandedText": "Safety"
+    },
+    {
+      "acronym": "SFO",
+      "expandedText": "Senior Fire Official"
+    },
+    {
+      "acronym": "SOW",
+      "expandedText": "Special Operations Wing"
+    },
+    {
+      "acronym": "TAS",
+      "expandedText": "Tool Accountability System"
+    },
+    {
+      "acronym": "TO",
+      "expandedText": "Technical Order"
+    }
+  ],
+  "subSections": [
+    {
+      "id": "content 1",
+      "itemType": "Content",
+      "sectionNum": "1",
+      "title": "Specific Positions Defined/Responsibilities",
+      "text": "Specific Positions Defined/Responsibilities",
+      "tags": ["1.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 1.1",
+          "itemType": "Content",
+          "sectionNum": "1.1",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "CDDAR trained personnel will be identified as \u201cTeam Chief\u201d or \u201cTeam Member\u201d on the crash recovery recall roster.  Team Chiefs will be identified on the special certification roster (SCR) and Integrated Maintenance Data System (IMDS) course code #03840",
+          "tags": ["1.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 1.2",
+          "itemType": "Content",
+          "sectionNum": "1.2",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "CDDAR Team Chief \u2013 Appointed in writing, by the 919th Maintenance Group Commander (919 MXG/CC), and responsible for the overall CDDAR Program development, implementation and management",
+          "tags": ["1.2.0.0.0"],
+          "subSections": [
+            {
+              "id": "content 1.2.1",
+              "itemType": "Content",
+              "sectionNum": "1.2.1",
+              "title": "Specific Positions Defined/Responsibilities",
+              "text": "CDDAR Team chief will",
+              "tags": ["1.2.1.0.0"],
+              "subSections": []
+            },
+            {
+              "id": "content 1.2.2",
+              "itemType": "Content",
+              "sectionNum": "1.2.2",
+              "title": "Specific Positions Defined/Responsibilities",
+              "text": "Establish a CDDAR continuity book containing, a recall roster, training plan, host/tenant support agreement and checklist",
+              "tags": ["1.2.2.0.0"],
+              "subSections": []
+            },
+            {
+              "id": "content 1.2.3",
+              "itemType": "Content",
+              "sectionNum": "1.2.3",
+              "title": "Specific Positions Defined/Responsibilities",
+              "text": "Upon notification of an on/off base crash, the CDDAR Team chief will implement the crash recovery team recall",
+              "tags": ["1.2.3.0.0"],
+              "subSections": []
+            },
+            {
+              "id": "content 1.2.4",
+              "itemType": "Content",
+              "sectionNum": "1.2.4",
+              "title": "Specific Positions Defined/Responsibilities",
+              "text": "Be the single on-scene (OS) focal point for CDDAR operations and report directly to the On-Scene Commander (OSC).  All CDDAR aircraft operations will be coordinated through this individual.  CDDAR Team chief will be designated upon notification of a recovery operation.  If the operation will be ongoing two CDDAR Team chiefs and one alternate will be designated for 24-hour operations.  These individuals will be readily identifiable by a YELLOW hard hat",
+              "tags": ["1.2.4.0.0"],
+              "subSections": []
+            }
+          ]
+        },
+        {
+          "id": "content 1.3",
+          "itemType": "Content",
+          "sectionNum": "1.3",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "CDDAR Team members work directly for and report to CDDAR Team chief",
+          "tags": ["1.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 1.4",
+          "itemType": "Content",
+          "sectionNum": "1.4",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "In the event of a major mishap, additional members may be augmented to assist in CDDAR operations under the direct supervision of the CDDAR Team chief and team members",
+          "tags": ["1.4.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 1.5",
+          "itemType": "Content",
+          "sectionNum": "1.5",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "Members from each back shop will be used to augment the Crash Recovery Process",
+          "tags": ["1.5.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 1.6",
+          "itemType": "Content",
+          "sectionNum": "1.6",
+          "title": "Specific Positions Defined/Responsibilities",
+          "text": "Each member will bring a special set of skills to expedite the recovery process",
+          "tags": ["1.6.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "id": "content 2",
+      "itemType": "Content",
+      "sectionNum": "2",
+      "title": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will",
+      "text": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will:",
+      "tags": ["2.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 2.1",
+          "itemType": "Content",
+          "sectionNum": "2.1",
+          "title": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will",
+          "text": "Maintain and initiate accident/incident checklists for aircraft mishap and notify all supporting agencies",
+          "tags": ["2.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 2.2",
+          "itemType": "Content",
+          "sectionNum": "2.2",
+          "title": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will",
+          "text": "Ensure radio traffic is held to essential transmissions during emergencies and enforce radio discipline during the recovery operation",
+          "tags": ["2.2.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 2.3",
+          "itemType": "Content",
+          "sectionNum": "2.3",
+          "title": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will",
+          "text": "Assist as necessary obtaining clearance from the control tower for maintenance vehicles to cross the active runway or taxiways to reach the recovery site",
+          "tags": ["2.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 2.4",
+          "itemType": "Content",
+          "sectionNum": "2.4",
+          "title": "919th Maintenance Operations Flight (919 MOF) Maintenance Operations Center (MXOC) will",
+          "text": "Coordinate with support organizations such as the 919th Logistics Readiness Squadron (919 LRS) and the 919th Civil Engineer Squadron (919 CES) for resources/actions required for CDDAR operations",
+          "tags": ["2.4.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "id": "content 3",
+      "itemType": "Content",
+      "sectionNum": "3",
+      "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+      "text": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2):",
+      "tags": ["3.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 3.1",
+          "itemType": "Content",
+          "sectionNum": "3.1",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide medical and crash/fire/rescue, as well as hazardous material and spill containment",
+          "tags": ["3.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.2",
+          "itemType": "Content",
+          "sectionNum": "3.2",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide security forces personnel to secure mishap scene and the wreckage assembly point, as directed by the OSC",
+          "tags": ["3.2.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.3",
+          "itemType": "Content",
+          "sectionNum": "3.3",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide tractor trailers, forklifts, and drivers as necessary to support equipment needs at the mishap site, as well as transport wreckage to the assembly point.  An all terrain forklift may also be required, depending on the mishap condition and location",
+          "tags": ["3.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.4",
+          "itemType": "Content",
+          "sectionNum": "3.4",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide maintenance support to heavy equipment participating in the recovery operation, as directed by the OSC",
+          "tags": ["3.4.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.5",
+          "itemType": "Content",
+          "sectionNum": "3.5",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide heavy equipment (bulldozers, cranes, dump trucks and operators) as required by the OSC and/or CDDAR Team chief",
+          "tags": ["3.5.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.6",
+          "itemType": "Content",
+          "sectionNum": "3.6",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "Provide Petroleum Oil and Lubricants (POL) support to the OSC.  This will include on scene de-fueling of aircraft, if possible, as well as refueling of support equipment (i.e. Aerospace Ground Equipment (AGE) and heavy equipment)",
+          "tags": ["3.6.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.7",
+          "itemType": "Content",
+          "sectionNum": "3.7",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "When called upon by the Senior Fire Official (SFO), the 96th Medical Group Bioenvironmental Flight (96 MGBF) will assist with advanced composite response procedures.  Only qualified personnel with adequate Personal Protective Equipment (PPE) will be allowed to enter hazardous areas",
+          "tags": ["3.7.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 3.8",
+          "itemType": "Content",
+          "sectionNum": "3.8",
+          "title": "96th Air Base Wing (ABW) In Accordance With (IAW) Host/Tenant Support Agreement and Eglin Air Force Base (EAFB) Comprehensive Emergency Management Plan (CEMP 10-2)",
+          "text": "The 46th MXG Repair and Reclamation Shop (46 MXG/MXKFER) will provide CDDAR services within their capability (See Host Tenant support agreement)",
+          "tags": ["3.8.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "id": "content 4",
+      "itemType": "Content",
+      "sectionNum": "4",
+      "title": "919th Aircraft Maintenance Squadron (919 AMXS) will",
+      "text": "919th Aircraft Maintenance Squadron (919 AMXS) will:",
+      "tags": ["4.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 4.1",
+          "itemType": "Content",
+          "sectionNum": "4.1",
+          "title": "919th Aircraft Maintenance Squadron (919 AMXS) will",
+          "text": "Notify 919th Maintenance Squadron (919 MXS) Repair and Reclamation CDDAR  section to evaluate all C-130 unsafe gear indications, hot brakes (see 919 SOWI 21-107, Aircraft with Hot Brakes), and all abnormal towing operations",
+          "tags": ["4.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 4.2",
+          "itemType": "Content",
+          "sectionNum": "4.2",
+          "title": "919th Aircraft Maintenance Squadron (919 AMXS) will",
+          "text": "If the aircraft can be towed normally in a power on/off situation, the 919 AMXS will be responsible for removing the aircraft from runways and taxiways",
+          "tags": ["4.2.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 4.3",
+          "itemType": "Content",
+          "sectionNum": "4.3",
+          "title": "919th Aircraft Maintenance Squadron (919 AMXS) will",
+          "text": "Provide personnel to remove or safe Chaff/Flare loaded on the aircraft",
+          "tags": ["4.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 4.4",
+          "itemType": "Content",
+          "sectionNum": "4.4",
+          "title": "919th Aircraft Maintenance Squadron (919 AMXS) will",
+          "text": "Provide assistance with crash recovery operations as requested by the OSC or CDDAR Team chief",
+          "tags": ["4.4.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "id": "content 5",
+      "itemType": "Content",
+      "sectionNum": "5",
+      "title": "919th Maintenance Squadron (919 MSX) will",
+      "text": "919th Maintenance Squadron (919 MSX) will:",
+      "tags": ["5.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 5.1",
+          "itemType": "Content",
+          "sectionNum": "5.1",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "Repair and Reclamation Shop CDDAR Team will respond to all accidents/incidents involving unit owned aircraft and or transient aircraft on runways, taxiways, and overruns at Duke Field.  CDDAR Team will remain in place, awaiting instructions from the Fire Chief/OSC.  Other accident/incident responses off station will be on an \u201cas needed basis.\u201d",
+          "tags": ["5.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.2",
+          "itemType": "Content",
+          "sectionNum": "5.2",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "Repair and Reclamation Shop CDDAR Team will provide immediate response during normal duty hours (0700\u20132230, Monday\u2013Friday).  Emergency recall roster will be utilized for other than normal duty hours.  Access recall roster through 919 MXOC and/or 919th Special Operations Wing Command Post (919 SOW/CP)",
+          "tags": ["5.2.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.3",
+          "itemType": "Content",
+          "sectionNum": "5.3",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will distribute emergency recall roster with CDDAR team members to Duke Field fire department, Duke Field airfield manager, 919th SOW Safety (919 SOW/SE) 919 SOW/CP, 919 MOF/MXOC and 46 MXG/MXKFER",
+          "tags": ["5.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.4",
+          "itemType": "Content",
+          "sectionNum": "5.4",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will assign qualified personnel to positions prior to recovery operation (e.g., special vehicle operators, console operators, safety observers, etc)",
+          "tags": ["5.4.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.5",
+          "itemType": "Content",
+          "sectionNum": "5.5",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "Repair and Reclamation Shop will provide Qualified Personnel and Equipment to include PPE for CDDAR operations",
+          "tags": ["5.5.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.6",
+          "itemType": "Content",
+          "sectionNum": "5.6",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will coordinate requests for additional personnel/equipment with the 919 MOF/MXOC",
+          "tags": ["5.6.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.7",
+          "itemType": "Content",
+          "sectionNum": "5.7",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will coordinate with 919 SOW Quality Assurance (QA) Office on all weight and balance or center of balance issues",
+          "tags": ["5.7.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.8",
+          "itemType": "Content",
+          "sectionNum": "5.8",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will evaluate the situation and coordinate with the OSC to formulate a recovery plan",
+          "tags": ["5.8.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.9",
+          "itemType": "Content",
+          "sectionNum": "5.9",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will consult with the OSC and Bioenvironmental Engineering (BEE) prior to beginning crash recovery operations, to determine what PPE will be required",
+          "tags": ["5.9.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.10",
+          "itemType": "Content",
+          "sectionNum": "5.10",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will plan for minimal secondary damage to the aircraft during recovery operations",
+          "tags": ["5.10.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.11",
+          "itemType": "Content",
+          "sectionNum": "5.11",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "AGE Section will provide AGE to support the recovery effort as requested by OSC and or CDDAR Team Chief",
+          "tags": ["5.11.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.12",
+          "itemType": "Content",
+          "sectionNum": "5.12",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "CDDAR Team chief will coordinate through the 919 LRS to provide additional heavy equipment that needs to be procured from outside vendors",
+          "tags": ["5.12.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 5.13",
+          "itemType": "Content",
+          "sectionNum": "5.13",
+          "title": "919th Maintenance Squadron (919 MSX) will",
+          "text": "IAW AFI 21-101 AFRCSUP I",
+          "tags": ["5.13.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "id": "content 6",
+      "itemType": "Content",
+      "sectionNum": "6",
+      "title": "Training/Equipment",
+      "text": "Training/Equipment:",
+      "tags": ["6.0.0.0.0"],
+      "subSections": [
+        {
+          "id": "content 6.1",
+          "itemType": "Content",
+          "sectionNum": "6.1",
+          "title": "Training/Equipment",
+          "text": "CDDAR Team chief will ensure that annual CDDAR training is accomplished for all team members using lesson plans, applicable directives, Mission Design Series (MDS) unique tools and technical orders.  Initial training will consist of academic and hands-on to include an actual aircraft lift.  CDDAR team members will participate in training with host base (EAFB) IAW host/tenant support agreement.  Training will be updated in IMDS using course code #22144 and training records documented as applicable",
+          "tags": ["6.1.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 6.2",
+          "itemType": "Content",
+          "sectionNum": "6.2",
+          "title": "Training/Equipment",
+          "text": "CDDAR Team chief will ensure accomplishment of required inspections of CDDAR equipment at prescribed intervals or at least annually",
+          "tags": ["6.2.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 6.3",
+          "itemType": "Content",
+          "sectionNum": "6.3",
+          "title": "Training/Equipment",
+          "text": "These inspections will be documented on Air Force Technical Order (AFTO) Form 244, Industrial/Support Equipment Record, and updated in IMDS",
+          "tags": ["6.3.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 6.4",
+          "itemType": "Content",
+          "sectionNum": "6.4",
+          "title": "Training/Equipment",
+          "text": "Repair and Reclamation shop will maintain and control CDDAR tools and equipment IAW AFI 21-101 Aircraft and Equipment Maintenance Management and 919 SOWI 21-110, Composite Tool Kit (CTK) Program.  Equipment and tools are arranged in a manner to conform to the show/know concept and must be identified to the shop.  The Tool",
+          "tags": ["6.4.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 6.5",
+          "itemType": "Content",
+          "sectionNum": "6.5",
+          "title": "Training/Equipment",
+          "text": "Accountability System (TAS) will be used when available.  Utilize AFRC Form 177, Consolidated Tool Kit Inventory and Control Log, when TAS is not available",
+          "tags": ["6.5.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content 6.6",
+          "itemType": "Content",
+          "sectionNum": "6.6",
+          "title": "Training/Equipment",
+          "text": "ANTHONY J. COMTOIS, Col, USAFR Commander",
+          "tags": ["6.6.0.0.0"],
+          "subSections": []
+        }
+      ]
+    },
+    {
+      "zero_level_sections": [
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "BY ORDER OF THE COMMANDER  919TH SPECIAL OPERATIONS WING",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "<image: DeviceRGB, width: 246, height: 239, bpc: 8>",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "919TH SPECIAL OPERATIONS WING",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "INSTRUCTION 21-113",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "Maintenance",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "CRASHED, DAMAGED OR DISABLED",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "AIRCRAFT RECOVERY PROGRAM",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "COMPLIANCE WITH THIS PUBLICATION IS MANDATORY",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "ACCESSIBILITY: Publications and forms are available on the e-Publishing website at",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "www.e-Publishing.af.mil for downloading or ordering",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "RELEASABILITY: There are no releasability restrictions on this publication",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "OPR:  919 AMXS/MXMT",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "Supersedes:  919SOWI21-113,",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "26 March 2009",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "Certified by: 919 MXG/CC (Col Kenneth D. Honaker)",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "Pages: 7",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "This instruction implements Air Force Policy Directive (AFPD) 21-1, Managing Aerospace Equipment Maintenance.  This instruction extends the guidance of Air Force Instruction (AFI) 21-101 Air Force Reserve Command (AFRC) SUP I Aircraft and Equipment Maintenance Management and Eglin Air Force Base (AFB) Comprehensive Emergency Management Plan, (CEMP 10-2) and the Eglin/Duke Host Tenant Support Agreement.  It provides guidance and procedures to the 919th Special Operations Wing (919 SOW) for the Crashed, Damaged or Disabled Aircraft Recovery Program (CDDAR).  It applies to all 919 SOW agencies involved with crash recovery operations and will ensure compliance with this instruction, to ensure a coordinated response to CDDAR situations.  Refer recommended changes and questions about this publication to the Office of Primary Responsibility (OPR) using the AF Form 847, Recommendation for Change of Publication; route AF Forms 847 from the field through the appropriate functional chain of command. Requests for waivers must be submitted through chain of command to the OPR listed above for consideration and approval.  Ensure that all records created as a result of processes prescribed in this publication are maintained in accordance with (IAW) Air Force Manual (AFMAN) 33-363, Management of Records, and disposed of IAW Air Force Records Information Management System (AFRIMS) Records Disposition Schedule (RDS). The use of the name or mark of any specific manufacturer, commercial product, commodity, or service in this publication does not imply endorsement by the Air Force",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "SUMMARY OF CHANGES",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        },
+        {
+          "id": "content ",
+          "itemType": "Content",
+          "sectionNum": "",
+          "title": "0",
+          "text": "This document has been substantially revised and must be completely reviewed.  Major changes include paragraph insertion and renumbering of all paragraphs",
+          "tags": ["0.0.0.0.0"],
+          "subSections": []
+        }
+      ]
+    }
+  ]
+}
