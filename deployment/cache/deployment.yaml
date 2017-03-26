@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-v2
+  namespace: learnecke
+spec:
+  selector:
+    matchLabels:
+      app: frontend-v2
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: frontend-v2
+    spec:
+      containers:
+      - name: frontend-v2
+        image: 316220230151.dkr.ecr.us-east-1.amazonaws.com/learnecke/frontend-v2:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+        command: [nginx-debug, '-g', 'daemon off;']
+        env:
+          - name: NGINX_HOST
+            value: lms.app.learnecke.com
+          - name: NGINX_PORT
+            value: '80'
+      dnsPolicy: ClusterFirst

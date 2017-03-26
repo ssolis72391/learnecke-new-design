@@ -1,0 +1,29 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: frontend-v2-ingress
+  annotations:
+    kubernetes.io/ingress.class: traefik
+    cert-manager.io/cluster-issuer: "letsencrypt-live"
+    certmanager.k8s.io/acme-challenge-type: "dns01"
+    external-dns.alpha.kubernetes.io/alias: "true"
+    traefik.ingress.kubernetes.io/router.entrypoints: "websecure"
+    traefik.ingress.kubernetes.io/router.tls: "true"
+  namespace: learnecke
+
+spec:
+  rules:
+    - http:
+        paths:
+          - backend:
+              service:
+                port:
+                  number: 80
+                name: frontend-v2-service
+            path: /
+            pathType: Prefix
+      host: demo.api.learnecke.com
+  tls:
+  - hosts:
+    - demo.api.learnecke.com
+    secretName: demo-frontendv2-tls

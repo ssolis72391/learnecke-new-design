@@ -1,0 +1,48 @@
+{
+  "extends": [
+    "wesbos"
+  ],
+  "rules": {
+    "no-console": 1,
+    "prettier/prettier": [
+      1,
+      {
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 120,
+        "tabWidth": 2,
+        "arrowParens": "always",
+        "endOfLine": "auto"
+      }
+    ],
+    "react/jsx-props-no-spreading": 0,
+    "camelcase": 1,
+    "no-shadow": 1,
+    "no-nested-ternary": 1,
+    "react-hooks/rules-of-hooks": 1,
+    "jsx-a11y/anchor-has-content": 1,
+    "global-require": 0,
+    "react/jsx-no-duplicate-props": 1,
+    "no-plusplus": 1,
+    "no-return-await": 1,
+    "import/no-unresolved": 0,
+
+    "no-restricted-exports":0,
+    "react/jsx-no-constructed-context-values":0,
+    "react/prop-types":0,
+    "class-methods-use-this": 1,
+    "react/destructuring-assignment":1,
+
+    "react/no-arrow-function-lifecycle": 0,
+    "react/no-invalid-html-attribute": 0,
+    "react/no-unused-class-component-methods":0,
+    "react/function-component-definition": 1,
+    "arrow-body-style": 1,
+    "react/no-unknown-property": 1,
+    "react/jsx-curly-brace-presence": 1,
+    "object-shorthand": 1,
+    "no-unused-expressions": 0,
+    "quotes": 1,
+    "no-use-before-define": 1
+  }
+}
