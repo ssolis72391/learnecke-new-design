@@ -1,0 +1,10 @@
+export { default as Login } from './Login';
+export { default as Home } from './Home';
+export { default as Lessons } from './Lessons';
+export { default as CreateCourse } from './CreateCourse';
+export { default as CourseDesign } from './CourseDesign';
+export { default as CourseList } from './CourseList';
+export { default as Outline } from './Outline';
+export { default as Quizzes } from './Quizzes';
+export { default as Quiz } from './Quiz';
+export { default as StudentDashboard } from './Student/Dashboard';
